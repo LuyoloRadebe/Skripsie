@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/QuiGen0_2.dir/BitmapGen.c.o CMakeFiles/QuiGen0_2.dir/DielectricBound.c.o CMakeFiles/QuiGen0_2.dir/DielectricStepGen.c.o CMakeFiles/QuiGen0_2.dir/ListGen.c.o CMakeFiles/QuiGen0_2.dir/main.c.o CMakeFiles/QuiGen0_2.dir/QuiGen.c.o CMakeFiles/QuiGen0_2.dir/StepGen.c.o  -o QuiGen0_2 -lm 

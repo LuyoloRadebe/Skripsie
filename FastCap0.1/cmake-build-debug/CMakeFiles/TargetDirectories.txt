@@ -1,0 +1,3 @@
+/home/ubuntu/Desktop/FastCap0.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/Desktop/FastCap0.1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ubuntu/Desktop/FastCap0.1/cmake-build-debug/CMakeFiles/FastCap0_1.dir

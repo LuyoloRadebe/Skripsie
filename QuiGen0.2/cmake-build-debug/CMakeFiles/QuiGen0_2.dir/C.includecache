@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/luyolo/Desktop/October 22/QuiGen0.2/DielectricBound.c
+Global.h
+/home/luyolo/Desktop/October 22/QuiGen0.2/Global.h
+
+/home/luyolo/Desktop/October 22/QuiGen0.2/Global.h
+stdio.h
+-
+stdlib.h
+-
+stdint.h
+-
+string.h
+-
+math.h
+-
+errno.h
+-
+GlobalStructures.h
+/home/luyolo/Desktop/October 22/QuiGen0.2/GlobalStructures.h
+
+/home/luyolo/Desktop/October 22/QuiGen0.2/GlobalStructures.h
+

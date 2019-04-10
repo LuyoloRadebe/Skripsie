@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="FastCap0_1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ubuntu/Desktop/FastCap0.1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Desktop/FastCap0.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Desktop/FastCap0.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Desktop/FastCap0.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Desktop/FastCap0.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/ubuntu/Desktop/FastCap0.1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Desktop/FastCap0.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Desktop/FastCap0.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Desktop/FastCap0.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Desktop/FastCap0.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/ubuntu/Desktop/FastCap0.1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Desktop/FastCap0.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Desktop/FastCap0.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Desktop/FastCap0.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Desktop/FastCap0.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FastCap0_1">
+				<Option output="/home/ubuntu/Desktop/FastCap0.1/cmake-build-debug/FastCap0_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ubuntu/Desktop/FastCap0.1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ubuntu/Desktop/FastCap0.1/src"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Desktop/FastCap0.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 FastCap0_1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Desktop/FastCap0.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Desktop/FastCap0.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Desktop/FastCap0.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FastCap0_1/fast">
+				<Option output="/home/ubuntu/Desktop/FastCap0.1/cmake-build-debug/FastCap0_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ubuntu/Desktop/FastCap0.1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ubuntu/Desktop/FastCap0.1/src"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Desktop/FastCap0.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 FastCap0_1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Desktop/FastCap0.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Desktop/FastCap0.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Desktop/FastCap0.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/blkDirect.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/busgen.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/calcp.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/capsolve.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/cubegen.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/direct.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/disrect.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/distri.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/electric.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/electric_mod.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/electric_old.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/epsilon.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/fastcap.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/input.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/mulDisplay.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/mulDo.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/mulGlobal.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/mulGlobal.h">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/mulLocal.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/mulMats.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/mulMats_mod.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/mulMats_old.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/mulMulti.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/mulSetup.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/mulStruct.h">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/patran.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/patran.h">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/pipedgen.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/pltcapgen.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/psMatDisplay.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/quickif.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/quickif.h">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/resusage.h">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/savemat_mod.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/teragen.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/uglyalloc.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/zbuf2fastcap.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/zbufGlobal.h">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/zbufInOut.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/zbufProj.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/zbufSort.c">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/src/zbufStruct.h">
+			<Option target="FastCap0_1"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/FastCap0.1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,2 @@
+bitmap generation
+https://stackoverflow.com/questions/30559615/creating-bitmap-using-c
